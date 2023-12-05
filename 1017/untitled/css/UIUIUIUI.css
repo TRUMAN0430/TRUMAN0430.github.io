@@ -1,0 +1,20 @@
+@charset "utf-8";
+.fluid {
+    width: 100%;
+    height: 100%;
+}
+.site_title {
+    text-align: center;
+    font-size: 50px;
+    color: #1B51A4;
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-variant: 250;
+    font-weight: bolder;
+}
+.banner {
+}
+.site_image {
+    width: 100%;
+    height: 250px;
+}
