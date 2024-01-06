@@ -9943,11 +9943,7 @@ button.bg-dark:focus {
 }
 
 .text-center {
-    text-align: center !important;
-    text-shadow: 0px 0px;
-    color: #000000;
-    font-style: normal;
-    font-weight: bolder;
+  text-align: center !important;
 }
 
 @media (min-width: 576px) {
